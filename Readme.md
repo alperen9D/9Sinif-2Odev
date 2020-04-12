@@ -46,3 +46,6 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
 
+# FİZİK 3 ÖDEV!!!!!!
+ [ödev için tıklayınız](https://docs.google.com/spreadsheets/d/1FwG6yS1F04pApvFklIgfwqOwGXLN_20DHcIJL1KKcn0/edit?usp=sharing)
+ 
